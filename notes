@@ -1,0 +1,11 @@
+{
+    "email": "vkushwanth2004@gmail.com",
+    "name": "vutkuri kushwanth kumar",
+    "rollNo": "12215773",
+    "accessCode": "CZypQK",
+    "clientID": "6e23b9fe-6d14-4cc7-b1a0-2e3afa87c4e5",
+    "clientSecret": "HZuUNnnMgwBgRyFk",
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJ2a3VzaHdhbnRoMjAwNEBnbWFpbC5jb20iLCJleHAiOjE3NTI0NzExMDgsImlhdCI6MTc1MjQ3MDIwOCwiaXNzIjoiQWZmb3JkIE1lZGljYWwgVGVjaG5vbG9naWVzIFByaXZhdGUgTGltaXRlZCIsImp0aSI6ImJmZWY4MWVlLTU4NjgtNDUwNi1hYjI1LWEwMzFhNDEwYTM5ZCIsImxvY2FsZSI6ImVuLUlOIiwibmFtZSI6InZ1dGt1cmkga3VzaHdhbnRoIGt1bWFyIiwic3ViIjoiNmUyM2I5ZmUtNmQxNC00Y2M3LWIxYTAtMmUzYWZhODdjNGU1In0sImVtYWlsIjoidmt1c2h3YW50aDIwMDRAZ21haWwuY29tIiwibmFtZSI6InZ1dGt1cmkga3VzaHdhbnRoIGt1bWFyIiwicm9sbE5vIjoiMTIyMTU3NzMiLCJhY2Nlc3NDb2RlIjoiQ1p5cFFLIiwiY2xpZW50SUQiOiI2ZTIzYjlmZS02ZDE0LTRjYzctYjFhMC0yZTNhZmE4N2M0ZTUiLCJjbGllbnRTZWNyZXQiOiJIWnVVTm5uTWd3QmdSeUZrIn0.PAsQ_Lh1kX7nBP0FQC9aSbuuZj49tzav28jiJrVUzVw",
+    "expires_in": 1752471108
+}
